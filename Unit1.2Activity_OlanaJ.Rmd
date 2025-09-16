@@ -1,10 +1,3 @@
----
-title: "My First Markdown File"
-author: "Jhoanna Olana"
-date: "2025-09-16"
-output: html_document
----
-
 # **Title:** My First Markdown File
 ### **Author:** Jhoanna Olana
 
